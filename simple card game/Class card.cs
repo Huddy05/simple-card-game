@@ -23,7 +23,11 @@ namespace simple_card_game
         this.value = value;
 
     }    
-         hhiu
+        
+
+    public interface get Suit() { return suit; }
+    public interface get value() { return value; }
+
          
 
 
